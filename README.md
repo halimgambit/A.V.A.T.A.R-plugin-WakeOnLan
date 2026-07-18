@@ -5,6 +5,7 @@ Wake-on-LAN est la norme de réseau permettant de réveiller les pc en mode veil
 
  ## 🎯 Usage
 Commandes :
+- modifier sur fichier Config par vos vrais ip et adresse mac de vos pc
 - allume l'ordinateur 1, allume l'ordinateur 2
 - remplacer ordinateur 1 ou 2, par quel nom vous, vous voulez
 - au moins activer Carte réseau configurée pour WoL Gestionnaire de périphériques → Carte réseau
