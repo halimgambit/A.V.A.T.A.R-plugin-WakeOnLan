@@ -7,6 +7,21 @@ Wake-on-LAN est la norme de réseau permettant de réveiller les pc en mode veil
 Commandes :
 - allume l'ordinateur 1, allume l'ordinateur 2
 - remplacer ordinateur 1 ou 2, par quel nom vous voulez
+- au moins activer Carte réseau configurée pour WoL Gestionnaire de périphériques → Carte réseau
+
+- ⚙️ Conditions obligatoires pour que WoL fonctionne
+WoL activé dans le BIOS/UEFI  
+(souvent “Wake on LAN”, “Power On by PCI-E”, “Resume by LAN”)
+Carte réseau configurée pour WoL  
+Dans Windows :
+Gestionnaire de périphériques → Carte réseau
+Onglet Avancé → “Wake on Magic Packet” = Enabled
+Onglet Gestion de l’alimentation → “Autoriser ce périphérique à sortir l’ordinateur du mode veille”
+Le PC doit être éteint mais alimenté  
+→ WoL ne marche pas si la multiprise est coupée.
+Le paquet doit arriver sur le bon réseau
+Même LAN
+Ou routeur configuré pour WoL (port 9 UDP broadcast)
 
 ## Multi-room
 
