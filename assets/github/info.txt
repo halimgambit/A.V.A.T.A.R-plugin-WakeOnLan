@@ -1,3 +1,0 @@
-WakeOnLan
-
-Permet à A.V.A.T.A.R d'allumer à distance des ordinateurs compatibles Wake-on-LAN sur le réseau local. Le plugin peut réveiller un PC configuré par son nom son ip ou son adresse MAC, vérifier sa disponibilité et gérer plusieurs machines depuis les commandes vocales.
