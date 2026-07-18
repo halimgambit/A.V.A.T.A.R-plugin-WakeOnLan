@@ -6,7 +6,7 @@ Wake-on-LAN est la norme de réseau permettant de réveiller les pc en mode veil
  ## 🎯 Usage
 Commandes :
 - allume l'ordinateur 1, allume l'ordinateur 2
-- remplacer ordinateur 1 par quel nom vous voulez
+- remplacer ordinateur 1 ou 2, par quel nom vous voulez
 
 ## Multi-room
 
