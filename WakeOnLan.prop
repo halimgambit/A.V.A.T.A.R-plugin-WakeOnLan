@@ -1,0 +1,22 @@
+{
+  "modules": {
+    "WakeOnLan": {
+      "version": "1.0",
+      "name": "pc_reveil",
+      "DEFAULT_BROADCAST": "192.168.1.255",
+      "PC_LIST": {
+        "ordinateur 1": {
+          "mac": "4C:24:CE:8D:13:7G",
+          "ip": "192.168.1.18"
+        },
+        "ordinateur 2": {
+          "mac": "aa:bb:cc:dd:ee:ff",
+          "ip": "192.168.1.99"
+        }
+      },
+      "rules": {
+        "wakePc": ["turn on * computer"]
+      }
+    }
+  }
+}

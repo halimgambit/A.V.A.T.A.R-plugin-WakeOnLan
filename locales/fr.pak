@@ -1,0 +1,13 @@
+{
+   "speech": {
+      "turnPc": "J'allume le PC $$",
+      "unknowPc": "Je ne sais pas quel PC tu veux allumer.",
+      "existPc": "Paquet de réveil envoyé à $$. Vérification dans 15 secondes.",
+      "returnExistPc": "Le PC $$ n'a pas répondu au ping de validation après envoi du paquet.",
+      "alreadyPc": "Le PC $$ est déjà allumé."
+   },
+   "error": {
+      "errorSend": "Erreur lors de l'envoi du paquet WoL : $$",
+      "warnError": "Échec du diagnostic de ping : $$"
+   }
+}

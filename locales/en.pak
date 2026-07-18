@@ -1,0 +1,13 @@
+{
+   speech: {
+      "turnPc": "I turn on the PC $$",
+      "unknowPc": "I don’t know which PC you want to turn on.",
+      "existent Pc": "Alarm packet sent to $$. Verification in 15 seconds.",
+      "returnExistPc": "The PC $$ did not respond to the validation ping after sending the package.",
+      "alreadyPc": "The PC $$ is already on."
+   },
+   "error": {
+      "errorSend": "Error sending WoL packet: $$",
+      "warnError": "Ping diagnosis failed: $$"
+   }
+}
